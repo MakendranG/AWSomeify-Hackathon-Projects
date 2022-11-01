@@ -32,7 +32,10 @@ Kindly watch the below video on how to Live Streaming with Amazon Interactive Vi
 
 # Demo
 
-[![Following the Continuous Deployment Pipeline - Part 6](https://youtube-md.vercel.app/Wtyk3dPv-KU/640/360)](https://www.youtube.com/watch?v=Wtyk3dPv-KU)
+
+[![Insert temporary metadata into a live stream using the Rest API
+](https://img.youtube.com/vi/fpZgc78L_J4/0.jpg)](http://www.youtube.com/watch?v=fpZgc78L_J4)
+
 
 
 
