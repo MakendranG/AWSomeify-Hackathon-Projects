@@ -29,8 +29,6 @@ Amazon IVS is a managed live streaming solution that can be quickly deployed in 
 
 Kindly watch the below video on how to Live Streaming with Amazon Interactive Video Service.
 
-https://www.youtube.com/watch?v=mAE47MVeWpY
-
 [![Live Streaming with Amazon Interactive Video Service
 ](https://img.youtube.com/vi/mAE47MVeWpY/0.jpg)](http://www.youtube.com/watch?v=mAE47MVeWpY)
 
