@@ -32,6 +32,7 @@ Kindly watch the below video on how to Live Streaming with Amazon Interactive Vi
 
 # Demo
 
+[![Following the Continuous Deployment Pipeline - Part 6](https://youtube-md.vercel.app/Wtyk3dPv-KU/640/360)](https://www.youtube.com/watch?v=Wtyk3dPv-KU)
 
 
 
